@@ -9,3 +9,4 @@ The app uses spacy for Entity Recognition
 And it uses sumy, lexranksummarizer for generating summaries.
 
 ![](images/summarize.PNG)
+![](images/summarizer.gif)
